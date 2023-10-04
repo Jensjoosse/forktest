@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update3
+=======
+update1
+>>>>>>> parent of d064f5c (gitignore for testdoc2)
